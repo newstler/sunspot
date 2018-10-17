@@ -249,6 +249,23 @@ module Sunspot #:nodoc:
         #   Post.index(:include => :author) 
         #
         def solr_index(opts={})
+puts ''
+puts ''
+puts ''
+puts ''
+puts ''
+puts ''
+puts ''
+puts ''
+puts 'FFFFUUUUCCCKKK'
+puts ''
+puts ''
+puts ''
+puts ''
+puts ''
+puts ''
+puts ''
+puts ''
           options = {
             :batch_size => Sunspot.config.indexing.default_batch_size,
             :batch_commit => true,
